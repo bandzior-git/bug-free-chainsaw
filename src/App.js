@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React and get fukt
+          Learn React and get triple fukt
         </a>
       </header>
     </div>
